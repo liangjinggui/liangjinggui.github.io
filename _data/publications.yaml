@@ -1,5 +1,23 @@
 papers:
 
+  - title: "A Survey of Ontology Expansion for Conversational Understanding"
+    authors: "Jinggui Liang, Yuxia Wu, Yuan Fang, Hao Fei, Lizi Liao"
+    venue: "EMNLP 2024."
+    paper_pdf: "/assets/publications/year_2024/2024_A_Survey_of_Ontology_Expa.pdf"
+    selected: y
+
+  - title: "Synergizing large language models and pre-trained smaller models for conversational intent discovery"
+    authors: "Jinggui Liang, Lizi Liao, Hao Fei, Jing Jiang"
+    venue: "Findings of ACL 2024."
+    paper_pdf: "/assets/publications/year_2024/2024.findings-acl.840.pdf"
+    selected: y
+
+  - title: "Actively Learn from LLMs with Uncertainty Propagation for Generalized Category Discovery"
+    authors: "Jinggui Liang, Lizi Liao, Hao Fei, Bobo Li, Jing Jiang"
+    venue: "NAACL 2024."
+    paper_pdf: "/assets/publications/year_2024/2024.naacl-long.434.pdff"
+    selected: y
+
   - title: "Clusterprompt: Cluster semantic enhanced prompt learning for new intent discovery"
     authors: "Jinggui Liang, Lizi Liao"
     venue: "Findings of EMNLP 2023."
