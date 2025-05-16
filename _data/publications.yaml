@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Colloquial Singaporean English Style Transfer with Fine-Grained Explainable Control"
+    authors: "Jinggui Liang, Dung Vo, Yap Hong Xian, Hai Leong Chieu, Kian Ming A. Chai, Jing Jiang, Lizi Liao"
+    venue: "ACL 2025."
+    paper_pdf: "https://liangjinggui.github.io/"
+    selected: y
+
   - title: "A Survey of Ontology Expansion for Conversational Understanding"
     authors: "Jinggui Liang, Yuxia Wu, Yuan Fang, Hao Fei, Lizi Liao"
     venue: "EMNLP 2024."
